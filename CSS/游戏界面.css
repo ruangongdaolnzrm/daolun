@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body h1{
+	position: absolute;
+	left:20px;
+	top:200px;
+}
+body p.scene{
+	font-size:40px;
+	font-family:"楷体";
+	color:rgba(10,241,169,1.00);
+  position: absolute;
+	left:33px;
+    top:-26px;
+}
+body li{
+	display:inline;	
+}
+body a img.return{
+  position:absolute;
+  left:840px;
+  top:0px;
+}

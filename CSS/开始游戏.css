@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+body img.a11{
+	position: absolute;
+  left:70px;
+  top:60px;
+}
+body img.a12{
+	position: absolute;
+  left:400px;
+  top:60px;
+}
+body img.a13{
+	position: absolute;
+  left:730px;
+  top:60px;
+}
+body img.a21{
+	position: absolute;
+  left:70px;
+  top:350px;
+}
+body img.a23{
+	position: absolute;
+  left:730px;
+  top:350px;
+}
+body li{
+	display:inline;	
+	font-size:67px;
+	font-family:"楷体";
+	font-weight:bold;
+	color:#06C4F5;
+	letter-spacing:10px;
+}
+body li.b11
+{
+	position: absolute;
+  left:105px;
+  top:118px;	
+}
+body li.b12
+{
+	position: absolute;
+  left:430px;
+  top:118px;	
+}
+body li.b13
+{
+	position: absolute;
+  left:750px;
+  top:118px;
+	letter-spacing:-10px;	
+}
+body li.b21
+{
+	position: absolute;
+  left:70px;
+  top:410px;
+	letter-spacing:-15px;	
+}
+body li.b23
+{
+	position: absolute;
+  left:720px;
+  top:410px;
+	letter-spacing:-15px;	
+}
+body li.return a{
+  position:absolute;
+  left:915px;
+  top:590px;
+	display: block;
+	font-family:"Bodoni MT Black";
+	font-size:35px;
+}
